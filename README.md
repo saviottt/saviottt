@@ -1,3 +1,5 @@
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=00C7B7&height=200&section=header&text=Don%20Savio%20Thomas&fontSize=50&animation=fadeIn&fontAlignY=35" /></div><p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=46E3B7&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Backend+Specialist;Python+%26+Flask+Expert;Turning+Logic+into+Code" alt="Typing SVG" /></p>
+
 # 💫 About Me:
 👋 Hi, I’m Don Savio Thomas<br><br>💻 IT student with a strong focus on web development and backend engineering. I build web applications using HTML, CSS, and Flask, and I’m actively exploring API development, database integration, and scalable backend architecture.<br><br>📫 Email: donsavio1one@gmail.com
 

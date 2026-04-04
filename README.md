@@ -1,5 +1,11 @@
-<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=00C7B7&height=200&section=header&text=Don%20Savio%20Thomas&fontSize=50&animation=fadeIn&fontAlignY=35" /></div><p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=46E3B7&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Backend+Specialist;Python+%26+Flask+Expert;Turning+Logic+into+Code" alt="Typing SVG" /></p>
+<div align="center">
 
+| 🟢 🟡 🔴 **index.py** — Don-Savio-Thomas — Visual Studio Code |
+| :--- |
+| <img src="https://capsule-render.vercel.app/api?type=soft&color=282a36&height=180&section=header&text=Don%20Savio%20Thomas&fontSize=60&fontColor=BD93F9&animation=fadeIn&bgImage=https%3A%2F%2Fgithub.com%2Fdonsaviothomas%2Fdonsaviothomas%2Fblob%2Fmain%2Fassets%2Ftech_texture_violet.png%3Fraw%3Dtrue" /> <br/> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=9580FF&center=true&vCenter=true&width=700&lines=1+class+Developer:+%0A2++++def+__init__(self):+%0A3++++++++self.name+=+%22Don+Savio%22+%0A4++++++++self.stack+=+[%22Python%22,+%22Flask%22]%0A5+%0A6+while+is_coding:+%0A7++++self.build_awesome_stuff();%0A%09Ln+7,+Col+32+++[UTF-8]+++Python" alt="Typing SVG" /> |
+
+</div>
+ 
 # 💫 About Me:
 👋 Hi, I’m Don Savio Thomas<br><br>💻 IT student with a strong focus on web development and backend engineering. I build web applications using HTML, CSS, and Flask, and I’m actively exploring API development, database integration, and scalable backend architecture.<br><br>📫 Email: donsavio1one@gmail.com
 

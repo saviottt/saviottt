@@ -6,12 +6,6 @@
 
 
 
-<!-- Animated Side Banner -->
-<img align="right" alt="Coding GIF" width="340" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
-
-</div>
-
----
 
 ## 🧠 About Me
 
@@ -53,10 +47,4 @@ me.say_hi()
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/saviottt/saviottt/output/github-contribution-grid-snake.svg">
     <img alt="github contribution grid snake" src="https://raw.githubusercontent.com/saviottt/saviottt/output/github-contribution-grid-snake.svg">
   </picture>
-</div>
-
-## 📈 Contribution Activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=saviottt&theme=tokyo-night&hide_border=true&area=true&custom_title=Don%20Savio's%20Contribution%20Graph&radius=8" width="100%" />
 </div>

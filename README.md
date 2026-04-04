@@ -10,7 +10,6 @@
 👋 Hi, I’m Don Savio Thomas<br><br>💻 IT student with a strong focus on web development and backend engineering. I build web applications using HTML, CSS, and Flask, and I’m actively exploring API development, database integration, and scalable backend architecture.<br><br>📫 Email: donsavio1one@gmail.com
 
 
-<img src="lets_code.gif" width="350" style="border-radius:12px;" />
 
 ## 🧠 About Me
 

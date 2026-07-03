@@ -1,3 +1,11 @@
+<div align="center">
+  <img 
+    src="https://github.com/saviottt/saviottt/blob/main/dino.gif?raw=true" 
+    width="900"
+    style="border: 4px solid red; border-radius: 10px;"
+  />
+</div>
+
 ### Building things that works eventually....😭 Pretty sure bugs and I were related in a previous life—they somehow keep finding their way back to me.
 
 

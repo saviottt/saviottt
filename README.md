@@ -6,8 +6,8 @@
 
 </div>
  
-# 💫 About Me:
-👋 Hi, I’m Don Savio Thomas<br><br>💻 IT student with a strong focus on web development and backend engineering. I build web applications using HTML, CSS, and Flask, and I’m actively exploring API development, database integration, and scalable backend architecture.<br><br>📫 Email: donsavio1one@gmail.com
+### Building things that works eventually....😭 Pretty sure bugs and I were related in a previous life—they somehow keep finding their way back to me.
+
 
 
 
@@ -16,7 +16,7 @@
 ```python
 class DonSavio:
     name       = "Don Savio Thomas"
-    role       = "Full Stack Developer & Backend Specialist"
+    role       = "Pursuing Engineering"
     location   = "India 🇮🇳"
     email      = "donsavio1one@gmail.com"
     languages  = ["Python", "JavaScript", "C", "HTML/CSS"]

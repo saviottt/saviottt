@@ -30,14 +30,13 @@
 <img src="https://skillicons.dev/icons?i=c,python,js,html,css&theme=dark" alt="languages" />
 <br><br>
 
-<b>Frameworks and Backend</b><br>
-<img src="https://skillicons.dev/icons?i=react,firebase,sqlite&theme=dark" alt="frameworks" />
+<b>Languages, Frameworks and Backend</b><br>
+<img src="https://skillicons.dev/icons?i=python,flask,sqlite,supabase&theme=dark" alt="languages, frameworks and backend" />
 <br><br>
 
 <b>Deployment and Design</b><br>
 <img src="https://skillicons.dev/icons?i=vercel,netlify,figma&theme=dark" alt="deploy and design" />
 <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" alt="Render" />
-<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva" />
 
 <br clear="right" />
 

@@ -1,6 +1,6 @@
 <div align="center">
   <img 
-    src="https://github.com/saviottt/saviottt/blob/main/dev.gif?raw=true" 
+    src="https://github.com/saviottt/saviottt/blob/main/coding.gif?raw=true" 
     width="900"
   />
 </div>

@@ -1,9 +1,9 @@
 
 <div align="center">
   <img
-    src="https://github.com/saviottt/saviottt/blob/main/dino.gif?raw=true"
-    width="750"
-    height="350"
+    src="https://github.com/saviottt/saviottt/blob/main/dev.gif?raw=true"
+    width="350"
+    height="750"
     alt="Chrome Dino"
   />
 </div>

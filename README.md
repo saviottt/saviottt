@@ -1,46 +1,43 @@
-
-<div align="center">
-  <img
-    src="https://github.com/saviottt/saviottt/blob/main/dev.gif?raw=true"
-    width="350"
-    height="750"
-    alt="Chrome Dino"
-  />
-</div>
-
-
 <p>
   <code>Building things that works eventually....😭 Pretty sure bugs and I were related in a previous life they somehow keep finding their way back to me</code>
 </p>
 
-### 💬 Get in Touch
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/don-savio-thomas-904174337/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:donsavio1one@gmail.com) 
+<img
+  align="right"
+  src="https://github.com/saviottt/saviottt/blob/main/dev.gif?raw=true"
+  width="350"
+  alt="Chrome Dino"
+/>
 
-### 💻 Tech Stack
+<h3>💬 Get in Touch</h3>
+<a href="https://www.linkedin.com/in/don-savio-thomas-904174337/">
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="mailto:donsavio1one@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email" />
+</a>
 
-<div>
+<h3>💻 Tech Stack</h3>
 
-**Languages and Web**
-
+<b>Languages and Web</b><br>
 <img src="https://skillicons.dev/icons?i=c,python,js,html,css&theme=dark" alt="languages" />
+<br><br>
 
-**Frameworks and Backend**
-
+<b>Frameworks and Backend</b><br>
 <img src="https://skillicons.dev/icons?i=react,firebase,sqlite&theme=dark" alt="frameworks" />
+<br><br>
 
+<b>Deployment and Design</b><br>
+<img src="https://skillicons.dev/icons?i=vercel,netlify,figma&theme=dark" alt="deploy and design" />
+<img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" alt="Render" />
+<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva" />
 
-
-**Deployment and Design**
-
-<img src="https://skillicons.dev/icons?i=vercel,netlify,figma&theme=dark" alt="deploy and design" /> ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
-
-</div>
+<br clear="right" />
 
 <div align="center">
   <img 
     src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" 
     width="900"
-    style="border: 4px solid red; border-radius: 10px;"
   />
 </div>
 

@@ -1,3 +1,10 @@
+<div align="center">
+  <img 
+    src="https://github.com/saviottt/saviottt/blob/main/dev.gif?raw=true" 
+    width="900"
+  />
+</div>
+
 <h5>
   <code>Building things that works eventually....😭 Pretty sure bugs and I were related in a previous life they somehow keep finding their way back to me</code>
 </h5>

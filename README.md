@@ -1,5 +1,4 @@
 
-
 <div align="center">
   <img
     src="https://github.com/saviottt/saviottt/blob/main/dino.gif?raw=true"
@@ -14,30 +13,6 @@
   <code>Building things that works eventually....😭 Pretty sure bugs and I were related in a previous life they somehow keep finding their way back to me</code>
 </p>
 
-
-##  About Me
-
-```python
-class DonSavio:
-    name       = "Don Savio Thomas"
-    role       = "Pursuing Engineering"
-    location   = "India "
-    email      = "donsavio1one@gmail.com"
-    languages  = ["Python", "JavaScript", "C", "HTML/CSS"]
-    frameworks = ["Flask", "React", "Firebase"]
-    databases  = ["SQLite", "Firebase Firestore"]
-    interests  = ["API Development", "Scalable Architecture", "Open Source"]
-    
-    def say_hi(self):
-        print("Thanks for visiting! Let's build something awesome ")
-
-me = DonSavio()
-me.say_hi()
-```
-
-
-
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/don-savio-thomas-904174337/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:donsavio1one@gmail.com) 
 
@@ -51,8 +26,6 @@ me.say_hi()
     style="border: 4px solid red; border-radius: 10px;"
   />
 </div>
-
-
 
 #### The Code Crawle
 <div align="center">

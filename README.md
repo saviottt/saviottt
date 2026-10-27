@@ -2,7 +2,7 @@
   <img 
     src="https://github.com/saviottt/saviottt/blob/main/coding.gif?raw=true" 
     height="500"
-    width="1000"
+    width="900"
   />
 </div>
 

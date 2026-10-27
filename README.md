@@ -1,7 +1,7 @@
 <div align="center">
   <img 
     src="https://github.com/saviottt/saviottt/blob/main/coding.gif?raw=true" 
-    height="100"
+    height="300"
     width="900"
   />
 </div>

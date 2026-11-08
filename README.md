@@ -25,6 +25,7 @@
   <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email" />
 </a>
 
+
 <h3>💻 Tech Stack</h3>
 
 <b>Languages and Web</b><br>
@@ -36,17 +37,12 @@
 <br><br>
 
 <b>Deployment and Design</b><br>
-<img src="https://skillicons.dev/icons?i=vercel,netlify,figma&theme=dark" alt="deploy and design" />
+<img src="https://skillicons.dev/icons?i=vercel,netlify,figma,docker&theme=dark" alt="deploy, design and docker" />
 <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" alt="Render" />
 
 <br clear="right" />
 
-<div align="center">
-  <img 
-    src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" 
-    width="800"
-  />
-</div>
+
 
 #### The Code Crawle
 <div align="center">

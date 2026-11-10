@@ -36,9 +36,11 @@
 <img src="https://skillicons.dev/icons?i=python,flask,sqlite,supabase&theme=dark" alt="languages, frameworks and backend" />
 <br><br>
 
-<b>Deployment and Design</b><br>
-<img src="https://skillicons.dev/icons?i=vercel,netlify,figma,docker&theme=dark" alt="deploy, design and docker" />
+<b>Deployment, DevOps and Design</b><br>
+<img src="https://skillicons.dev/icons?i=vercel,netlify,figma,docker,jenkins,cloudflare&theme=dark" alt="Deployment and DevOps tools" />
 <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" alt="Render" />
+
+<br><br>
 
 <br clear="right" />
 

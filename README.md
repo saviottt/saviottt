@@ -24,6 +24,9 @@
 <a href="mailto:donsavio1one@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email" />
 </a>
+<a href="https://saviottt.github.io/Portfolio_saviottt/">
+  <img src="https://img.shields.io/badge/~/portfolio-OPEN-161B22?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
 
 <h3>💻 Tech Stack</h3>
